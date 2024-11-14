@@ -1,4 +1,4 @@
-[! alt text](https://github.com/MuhammadMuazen/thagarat/blob/main/assets/Mainimage.png?raw=true)
+<img src="https://github.com/MuhammadMuazen/thagarat/blob/main/assets/Mainimage.png" />
 
 # THAGART
 
