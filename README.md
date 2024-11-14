@@ -1,4 +1,4 @@
-<img src="https://github.com/MuhammadMuazen/thagarat/blob/main/assets/Mainimage.png" style="width: 240px"/>
+<img src="https://github.com/MuhammadMuazen/thagarat/blob/main/assets/Mainimage.png" width ="240px"/>
 
 # THAGART
 
