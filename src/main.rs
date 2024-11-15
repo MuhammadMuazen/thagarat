@@ -1,5 +1,5 @@
 /*
-    Made with hatred and vengence by Muhammad Muazen
+    Made with hatred and vengence by Muhammad Muazen ;> Just Kidding
 */
 
 use thagarat::{fetch, helper_functions, cve};
