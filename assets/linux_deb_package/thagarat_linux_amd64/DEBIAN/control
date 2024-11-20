@@ -1,0 +1,6 @@
+Package: thagarat
+Version: 1.0
+Architecture: amd64
+Maintainer: Muhammad Muazen
+Description: Shoadn API automation open source tool written in rust
+Homepage: https://github.com/MuhammadMuazen/thagarat 
