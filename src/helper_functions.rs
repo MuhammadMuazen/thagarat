@@ -226,7 +226,7 @@ pub fn full_help_message() {
       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [i] Usage:
 
-        {} [mandatory parameters] [options]
+        {0} [mandatory parameters] [options]
 
 [i] Mandatory Parameters:
 
@@ -266,12 +266,12 @@ pub fn full_help_message() {
 
 [i] Examples:
         
-        [1] {} -cs
-        [2] {} -cid CVE-CVE-2023-50071
-        [3] {} --cve-id CVE-2024-6387 -id -kev -references
-        [4] {} --cves -id -limit 10 -start-date 2023-10-01T12:01:44 -cpes -published-time
+        [1] {0} -cs
+        [2] {0} -cid CVE-CVE-2023-50071
+        [3] {0} --cve-id CVE-2024-6387 -id -kev -references
+        [4] {0} --cves -id -limit 10 -start-date 2023-10-01T12:01:44 -cpes -published-time
 
-    "#, executable_file_name, executable_file_name, executable_file_name, executable_file_name, executable_file_name);
+    "#, executable_file_name);
 
 }
 
